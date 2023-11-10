@@ -1,7 +1,6 @@
 # maher-portafolio
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Maher_portafolio
 
 > This is my personal portfolio mobile and desktop version
 
