@@ -54,6 +54,7 @@ Test for Linters For tracking linter errors locally you need to follow these ste
 👤 **Maher Ramadan**
 
 - GitHub: [@maherramadan78](https://github.com/maherramadan78)
+- linkedin: [maher ramadan][https://www.linkedin.com/in/maher-ramadan-655623a4/]
 
 
 
